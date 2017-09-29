@@ -1,4 +1,6 @@
-# README
+# Rails, React, SSR
+
+This is a sample project showing how to get Rails, React, and SSR going.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
